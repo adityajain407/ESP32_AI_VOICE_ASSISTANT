@@ -31,6 +31,8 @@ Another key motivation was accessibility and usability. I believe that technolog
 
 This section explains how to assemble the Portable AI Voice Assistant from scratch using the custom PCB and components shown above. Basic experience with soldering and electronics assembly is recommended.
 
+<img width="1919" height="1079" alt="Screenshot 2025-12-17 122840" src="https://github.com/user-attachments/assets/54718d8f-3bc5-4fc4-bd4f-b8f85da76220" />
+
 🔧 Tools Required
 
 Soldering iron (fine tip)
@@ -93,3 +95,19 @@ After successful testing, secure all components inside the enclosure. Ensure all
 
 
 
+
+# here is 3d model 
+
+
+
+![MixCollage-17-Dec-2025-11-39-PM-2850](https://github.com/user-attachments/assets/838167b1-440b-4e6f-88d9-1e99411322d2)
+
+
+
+# pcb image
+
+![WhatsApp Image 2025-12-17 at 12 38 31 PM](https://github.com/user-attachments/assets/d4aad548-e51d-43b3-bbc9-7723d722d373)
+
+# wireing diagram
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c97a6c81-99bd-4f8c-a196-58b22f102c15" />
