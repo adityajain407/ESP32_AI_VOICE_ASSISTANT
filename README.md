@@ -21,7 +21,7 @@ This project allowed me to learn and tackle real engineering challenges: capturi
 
 Another important goal was to enhance accessibility and usability. I believe technology should be easy to use. Voice input and output make information more accessible for everyone, especially in situations where screens aren't ideal. Building this project was my way of bringing AI into the physical world in a practical way. I also aimed to document the entire process so others can learn from it.
 
-
+[BOM.csv](https://github.com/user-attachments/files/24221989/BOM.csv)V
 #  Assembly Instructions
 
 This section explains how to assemble the Portable AI Voice Assistant from scratch using the custom PCB and components shown above. Basic experience with soldering and electronics assembly is recommended.
