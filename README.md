@@ -65,9 +65,11 @@ Align the ESP32 module with the PCB footprint and solder all castellated pads ca
 
 Solder the microphone module in the designated area on the PCB. Make sure the orientation is correct so that power, ground, and signal lines are properly connected.
 
+<img width="713" height="444" alt="Screenshot 2025-12-17 123058" src="https://github.com/user-attachments/assets/1cf3d303-7d91-4f2d-aee8-0f409e7603ee" />
+
 🔊 Step 5: Speaker Connection
 
-Connect the speaker wires to the PCB terminals marked SPK+ and SPK−. Secure the speaker to the enclosure or PCB using hot glue or screws to prevent movement and vibration during operation.
+Connect the speaker wires to the PCB terminals marked SPK+ and SPK−. Secure the speaker to the enclosure or PCB using screws to prevent movement and vibration during operation.
 
 💾 Step 6: SD Card Slot Assembly
 
