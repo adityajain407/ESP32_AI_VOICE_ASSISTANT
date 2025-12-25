@@ -1,5 +1,5 @@
 // --- API key (replace with your ElevenLabs key) ---
-const char* deepgramApiKey = "sk_3fcc3f1de0b09e8dbdecafeff28a482818e491d03d50db75"; // renamed var kept for minimal change
+const char* deepgramApiKey = ""; // renamed var kept for minimal change
 
 // ---------------------------------------------
 // SpeechToText_Deepgram (modified to call ElevenLabs API only)
